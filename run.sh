@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-title1="skillshape-frontend"
-title2="skillshape-backend"
-title3="skillshape-new-frontend"
+title1="project-frontend"
+title2="project-backend"
+title3="project-new-frontend"
 
 develop="git checkout develop"
 pull="git pull"
