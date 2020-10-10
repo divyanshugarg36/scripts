@@ -1,4 +1,4 @@
-sudo apt update
+sudo apt update #different for manjaro
 sudo apt install -y mongodb
 sudo mkdir /data
 sudo mkdir /data/db
